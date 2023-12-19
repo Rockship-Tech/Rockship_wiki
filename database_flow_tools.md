@@ -54,6 +54,7 @@
       created_at timestamp
     }
     ```
+<img width="1312" alt="image" src="https://github.com/Rockship-Tech/Rockship_wiki/assets/34652279/045af409-88a0-4648-9e17-cc904c33c9df">
 
 ### 3. Saving and Exporting
 
