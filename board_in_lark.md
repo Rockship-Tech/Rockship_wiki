@@ -9,17 +9,24 @@ Creating and sharing boards in Lark is a seamless process that enables effective
 In Lark, there are multiple ways to create a board:
 
 1. **Method 1:** Navigate to the Lark Docs homepage and click on "New" > "Board".
-<img width="610" alt="image" src="https://github.com/Rockship-Tech/Rockship_wiki/assets/34652279/4abd37ac-2a0b-4257-bc56-35bae9b46525">
+<p align="center">
+  <img width="610" alt="image" src="https://github.com/Rockship-Tech/Rockship_wiki/assets/34652279/4abd37ac-2a0b-4257-bc56-35bae9b46525">
+</p>
 
-2. **Method 2:** Within a document, click the "+" icon located in the upper-right corner, then select "Board".
+3. **Method 2:** Within a document, click the "+" icon located in the upper-right corner, then select "Board".
+<p align="center">
   <img width="245" alt="image" src="https://github.com/Rockship-Tech/Rockship_wiki/assets/34652279/2cf1aee5-740a-4e25-bf33-867ac9fa9486">
+</p>
 
-3. **Method 3:** Hover over the "+" icon that appears on an empty line in the document and select "Board".
-<img width="250" alt="image" src="https://github.com/Rockship-Tech/Rockship_wiki/assets/34652279/7d0a0c22-98c3-4141-8403-70e41866d94e">
+4. **Method 3:** Hover over the "+" icon that appears on an empty line in the document and select "Board".
+<p align="center">
+  <img width="250" alt="image" src="https://github.com/Rockship-Tech/Rockship_wiki/assets/34652279/7d0a0c22-98c3-4141-8403-70e41866d94e">
+</p>
 
-4. **Method 4:** Type `/` or `Space /` anywhere in the text, and select "Board". Alternatively, type `/board` and choose "Board".
-<img width="575" alt="image" src="https://github.com/Rockship-Tech/Rockship_wiki/assets/34652279/2c585a83-f233-48d9-9636-08ce1d14cf2e">
-
+5. **Method 4:** Type `/` or `Space /` anywhere in the text, and select "Board". Alternatively, type `/board` and choose "Board".
+<p align="center">
+  <img width="575" alt="image" src="https://github.com/Rockship-Tech/Rockship_wiki/assets/34652279/2c585a83-f233-48d9-9636-08ce1d14cf2e">
+</p>
 ## Sharing a Board
 
 To share a board:
